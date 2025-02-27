@@ -1,4 +1,5 @@
 import re
+#regular expression
 
 def password_strength(password):
     # Criteria to evaluate
